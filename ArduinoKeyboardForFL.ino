@@ -1,9 +1,13 @@
 #define NOTE_C 262
+#define NOTE_C_SHARP 277
 #define NOTE_D 294
+#define NOTE_D_SHARP 311
 #define NOTE_E 330
 #define NOTE_F 349
 #define NOTE_G 392
+#define NOTE_G_SHARP 415
 #define NOTE_A 440
+#define NOTE_A_SHARP 466
 #define NOTE_B 493
 
 #define ACTIVATED LOW
@@ -43,7 +47,7 @@ void setup() {
 }
 
 void loop() {
-  while(digitalRead(BUTTON_C) == ACtIVATED)
+  while(digitalRead(BUTTON_C) == ACTIVATED)
   {
     tone(PIEZO,NOTE_C);
     digitalWrite(LED,HIGH);
