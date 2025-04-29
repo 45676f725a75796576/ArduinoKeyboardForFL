@@ -1,15 +1,13 @@
 # Simple Arduino Synthesizer
 
-This project uses code from user [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)
-
-For this project I made box and some edit in code to delete some unnecessary features.
+Code base from user [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)
 
 ## Setup
 
 For synthesizer you will need:
 - Arduino Uno
-- 5 potentiometers
-- Speaker
+- 5 potentiometers 10k Ohm
+- 50W Speaker
 - Jump cambles
 
 1. Install code into your Arduino.
