@@ -1,6 +1,6 @@
 # Syntezátor na Arduino
 
-Code base from user [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)
+Code base from user [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)  
 Základní kód od uživatele [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)
 
 ## Setup
