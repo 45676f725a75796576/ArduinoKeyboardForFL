@@ -68,13 +68,6 @@ V souboru **blackbox.step** najdete kompletní 3D model pro tisk krabičky, ve k
 
 Obrázek **poster.png** lze použít pro prezentaci projektu na výstavách či soutěžích. Obsahuje stručné schéma a popis funkcí.
 
-### Budoucí rozšíření
-
-* Přidání polyfonie (vícehlasý syntezátor)
-* MIDI vstup pro řízení z externí klávesnice
-* Rozšířený filtr (LFO, rezonátor)
-* Vylepšená obálka s hardwarovým spínačem pro hold
-
 ---
 
 ## English
@@ -146,15 +139,6 @@ Load **blackbox.step** into any CAD software (e.g., Fusion 360, FreeCAD) to expo
 ### Poster
 
 Use **poster.png** for showcasing the project at fairs or contests. It includes a schematic overview and feature list.
-
-### Future enhancements
-
-* Implement polyphony (multi-voice synthesis)
-* Add MIDI input for external keyboard control
-* Extend filter section (LFO, resonance circuit)
-* Hardware switch for envelope hold mode
-
----
 
 **Licence & Credits**
 Kód je licencován volně pro nekomerční použití. Velké díky uživateli chariscat za původní inspiraci a základní implementaci. / Code is provided under a permissive, non-commercial licence. Thanks to chariscat for the original code base and inspiration.
