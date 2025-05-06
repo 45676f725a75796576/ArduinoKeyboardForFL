@@ -3,9 +3,9 @@
 Code base from user [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)  
 Základní kód od uživatele [chariscat](https://projecthub.arduino.cc/chariscat/building-the-auduino-synthesiser-arduino-based-diy-synth-7b8545)
 
-## Setup
+## EN
 
-### EN
+### Setup
 
 For synthesizer you will need:
 - Arduino Uno
@@ -17,7 +17,11 @@ For synthesizer you will need:
 2. Print box (optional)
 3. Install everything as in schematic.
 
-### CZ
+### About
+
+## CZ
+
+### Setup
 
 Pro syntezátor budete potřebovat:
 - Arduino Uno
@@ -28,3 +32,7 @@ Pro syntezátor budete potřebovat:
 1. Nainstalujte kód na Arduino Uno.
 2. Natiskněte na 3D tiskárně krabičku (dobrovolný)
 3. Zopakujte schéma z obrázku.
+
+### O čem je
+
+
